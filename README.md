@@ -21,9 +21,9 @@ b=np.array([5,-3])
 c=np.linalg.solve(a,b)
 print(c)
 '''
-## Outp![Screenshot 2024-11-27 094442](https://github.com/user-attachments/assets/17d7114b-ee34-41e0-b01b-790f11cd291a)
+## Output
 ![Screenshot 2024-11-27 094442](https://github.com/user-attachments/assets/33565404-6deb-4f51-811c-5bc78562465c)
-ut:
+
 
 ## Result: 
 Thus the solut!
